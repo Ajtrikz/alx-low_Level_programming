@@ -9,11 +9,7 @@
  */
 int main(void)
 {
-	//string initialization 
-	char puzzle[] = "Programming is like building a multilingual puzzle\n";
-
-	//writing the string to stdout
-	puts(puzzle); 
+	 puts('\n'"Programming is like building a multilingual puzzle"); 
 
 	return 0;
 }
